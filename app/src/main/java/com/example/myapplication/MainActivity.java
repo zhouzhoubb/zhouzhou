@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String s="'";
         String s1="'";
-        String s2="'";
+        String s2="321321";
         String s3="13213";
         String s4="tetewrew";
 
